@@ -1,0 +1,6 @@
+{
+  "name": "proj-1",
+  "dependencies": {
+    "qs": "~6.9.4"
+  }
+}
